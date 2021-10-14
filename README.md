@@ -11,6 +11,7 @@ nasir@nasir.id
 
 ### How to use this package
 install command :
+    
     pip install bmkgnasir==0.1
 
 Insert following scripts into your main.py
